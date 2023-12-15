@@ -36,8 +36,8 @@ Estou atualmente construindo uma nova impressora 3D exclusivamente para a Univer
 
 ## Contato
 
-- **LinkedIn:** [Weslem Cristiano de Oliveira](seu-link-do-LinkedIn)
-- **E-mail:** weslem.c.oliveira@email.com
-- **GitHub:** [github.com/weslem-cristiano](https://github.com/weslem-cristiano)
+- **LinkedIn:** [Weslem Cristiano de Oliveira](https://www.linkedin.com/in/weslem-cristiano-de-oliveira-0808451b0/)
+- **E-mail:** cristianoweslem9@gmail.com
+- **GitHub:** [github.com/weslem-cristiano](https://github.com/WeslemCristiano)
 
 Meu compromisso com a inovação, aprendizado contínuo e responsabilidade social guia minha jornada na computação. Estou entusiasmado com as oportunidades futuras e ansioso para colaborar em projetos desafiadores.
