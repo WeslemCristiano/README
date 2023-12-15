@@ -1,6 +1,6 @@
 # Portfólio
 
-<img src=Images/wes.png width="800" /><br/>
+<img src=Images/wes.png width="500" /><br/>
 
 ## Sobre Mim
 
