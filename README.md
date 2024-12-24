@@ -10,8 +10,8 @@ Olá, eu sou Weslem Cristiano de Oliveira, um estudante de Ciência da Computaç
 ## 📈 GitHub Stats  
 <div align="center">  
   <a href="https://github.com/WeslemCristiano">  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Weslem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslem&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WeslemCristiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslemCristiano&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>  
 </div>  
 
