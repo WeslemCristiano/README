@@ -5,16 +5,16 @@
 - 👨‍💻 Estou cursando Ciência da Computação na Universidade Estadual do Norte do Paraná.  
 - 🌱 Atualmente, sou bolsista no laboratório Maker.  
 
-- 🚀 **Email**: cristianoweslem9@gmail.com  
-- 🔗 **LinkedIn**: [Meu perfil](https://www.linkedin.com/in/weslem-cristiano-de-oliveira-0808451b0/)  
+- 🚀 Email: cristianoweslem9@gmail.com  
+- 🔗 LinkedIn: [Meu perfil](https://www.linkedin.com/in/weslem-cristiano-de-oliveira-0808451b0/)  
 
 ---
 
 ## 📈 GitHub Stats  
 <div align="center">  
   <a href="https://github.com/WeslemCristiano">  
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Weslem-10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Weslem Cristiano's GitHub Stats"/>  
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslem&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Weslem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslem&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>  
 </div>  
 
