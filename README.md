@@ -1,45 +1,33 @@
-# Portfólio
+---
 
-<img src=Images/wes.png width="500" /><br/>
+## Olá! Eu sou Weslem Cristiano  
 
-## Sobre Mim
+- 👨‍💻 Estou cursando Ciência da Computação na Universidade Estadual do Norte do Paraná.  
+- 🌱 Atualmente, sou bolsista no laboratório Maker.  
 
-Olá, eu sou Weslem Cristiano de Oliveira, um estudante de Ciência da Computação na Universidade Estadual do Norte do Paraná. Apaixonado por eletrônica desde os cinco anos, minha jornada na tecnologia foi impulsionada pela curiosidade em desmontar e montar equipamentos. Com uma base sólida em eletrônica e experiência prática em serralheria, mergulhei em desafios que exploram a interseção entre hardware e software.
+- 🚀 **Email**: cristianoweslem9@gmail.com  
+- 🔗 **LinkedIn**: [Meu perfil](https://www.linkedin.com/in/weslem-cristiano-de-oliveira-0808451b0/)  
 
-## Projetos Destacados
+---
 
-### Impressora 3D CORE XY
+## 📈 GitHub Stats  
+<div align="center">  
+  <a href="https://github.com/WeslemCristiano">  
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Weslem-10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Weslem Cristiano's GitHub Stats"/>  
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslem&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>  
+  </a>  
+</div>  
 
-- **Descrição:** Construí uma impressora 3D modelo CORE XY durante a disciplina de Computação e Sociedade. Utilizei conhecimentos em serralheria e eletrônica para escolher materiais, projetar e implementar a estrutura. A impressora foi aprimorada ao longo do tempo e utilizada voluntariamente para produzir máscaras faciais durante a pandemia da Covid-19.
+---
 
-- **Tecnologias Utilizadas:** Eletrônica, Programação, Serralheria.
+## 🔔 Social Media  
+<div align="center">  
+  <a href="https://linkedin.com/in/weslem-cristiano-de-oliveira-0808451b0/" target="_blank">  
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
+  </a>  
+  <a href="mailto:cristianoweslem9@gmail.com" target="_blank">  
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>  
+  </a>  
+</div>  
 
-### Contribuição Voluntária na AITEC
-
-- **Descrição:** Colaborei com a AITEC na produção de máscaras faciais utilizando minha impressora 3D. Entreguei semanalmente 35 a 40 máscaras para profissionais de saúde, proporcionando uma experiência valiosa de produção em alta escala e contribuindo para o enfrentamento da pandemia.
-
-- **Tecnologias Utilizadas:** Impressão 3D, Colaboração Remota.
-
-### Construção de Computador e Fliperama
-
-- **Descrição:** Antes da impressora 3D, construí um computador e um fliperama, explorando minha paixão pela eletrônica e hardware.
-
-- **Tecnologias Utilizadas:** Montagem de Computador, Arcade DIY.
-
-## Aperfeiçoamento Contínuo
-
-- **Atualizações na Impressora 3D:** Realizei dois upgrades na impressora até o momento, incorporando tecnologias mais recentes. Atualmente, estou trabalhando no terceiro upgrade.
-
-- **Investimento Total:** A construção e aprimoramento da impressora totalizaram aproximadamente R$2 mil.
-
-## Futuros Projetos
-
-Estou atualmente construindo uma nova impressora 3D exclusivamente para a Universidade, com uma base de impressão ainda maior. Além disso, estou explorando novos projetos na área de hardware, inspirado pelo sucesso da impressora original.
-
-## Contato
-
-- **LinkedIn:** [Weslem Cristiano de Oliveira](https://www.linkedin.com/in/weslem-cristiano-de-oliveira-0808451b0/)
-- **E-mail:** cristianoweslem9@gmail.com
-- **GitHub:** [github.com/weslem-cristiano](https://github.com/WeslemCristiano)
-
-Meu compromisso com a inovação, aprendizado contínuo e responsabilidade social guia minha jornada na computação. Estou entusiasmado com as oportunidades futuras e ansioso para colaborar em projetos desafiadores.
+---  
