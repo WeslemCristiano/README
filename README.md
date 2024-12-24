@@ -15,7 +15,7 @@ Olá, eu sou Weslem Cristiano de Oliveira, um estudante de Ciência da Computaç
   </a>  
 </div>  
 
-##👨‍💻 Linguagens de programação:
+## Linguagens de programação:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://camo.githubusercontent.com/9ca89026b095211358a5a34fd00a741495f8adf47c9333b2daae7f6d356cdcec/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d2d545f354f664b7661536f2f5850414677396a716d4f492f41414141414141414145412f317042706b38716e476c45786b412d7476505a785949686d3445524345435f4d77434c63424741732f73313630302f632d6c6f676f2e706e67">
@@ -27,7 +27,7 @@ Olá, eu sou Weslem Cristiano de Oliveira, um estudante de Ciência da Computaç
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-## 🔔 Social Media  
+## 🔔 Rede social
 
 <div> 
   <a href="https://www.instagram.com/weslem_cristiano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
