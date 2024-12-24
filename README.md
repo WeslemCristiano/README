@@ -5,6 +5,7 @@
 
 
 
+
 ## 📈 GitHub Stats  
 <div align="center">  
   <a href="https://github.com/WeslemCristiano">  
@@ -12,6 +13,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslem&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>  
 </div>  
+
+##👨‍💻 Linguagens de programação:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://camo.githubusercontent.com/9ca89026b095211358a5a34fd00a741495f8adf47c9333b2daae7f6d356cdcec/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d2d545f354f664b7661536f2f5850414677396a716d4f492f41414141414141414145412f317042706b38716e476c45786b412d7476505a785949686d3445524345435f4d77434c63424741732f73313630302f632d6c6f676f2e706e67">
