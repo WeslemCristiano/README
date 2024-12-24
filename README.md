@@ -3,7 +3,8 @@
 - 👨‍💻 Estou cursando Ciência da Computação na Universidade Estadual do Norte do Paraná.  
 - 🌱 Atualmente, sou bolsista no laboratório Maker.  
 
-
+## Sobre Mim
+Olá, eu sou Weslem Cristiano de Oliveira, um estudante de Ciência da Computação na Universidade Estadual do Norte do Paraná. Apaixonado por eletrônica desde os cinco anos, minha jornada na tecnologia foi impulsionada pela curiosidade em desmontar e montar equipamentos. Com uma base sólida em eletrônica e experiência prática em serralheria, mergulhei em desafios que exploram a interseção entre hardware e software.
 
 
 ## 📈 GitHub Stats  
