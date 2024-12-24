@@ -1,14 +1,11 @@
----
-
 ## Olá! Eu sou Weslem Cristiano  
 
 - 👨‍💻 Estou cursando Ciência da Computação na Universidade Estadual do Norte do Paraná.  
 - 🌱 Atualmente, sou bolsista no laboratório Maker.  
 
 - 🚀 Email: cristianoweslem9@gmail.com  
-- 🔗 LinkedIn: [Meu perfil](https://www.linkedin.com/in/weslem-cristiano-de-oliveira-0808451b0/)  
-
----
+- 🔗 LinkedIn: [Meu perfil](https://www.linkedin.com/in/weslem-cristiano-de-oliveira-0808451b0/)
+  
 
 ## 📈 GitHub Stats  
 <div align="center">  
@@ -18,7 +15,7 @@
   </a>  
 </div>  
 
----
+
 
 ## 🔔 Social Media  
 <div align="center">  
@@ -30,4 +27,4 @@
   </a>  
 </div>  
 
----  
+  
